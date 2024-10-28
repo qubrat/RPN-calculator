@@ -12,7 +12,7 @@ Reverse Polish Notation (RPN) calculator implemented in TypeScript. It supports 
 ## Installation
 
 1. Clone the repository:
-`git clone https://github.com/qubrat/task-tech.git` ->
+`git clone https://github.com/qubrat/RPN-calculator.git` ->
 `cd task-tech`
 
 2. Install dependencies:
