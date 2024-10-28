@@ -34,7 +34,7 @@ console.log(calculateRPN('3 4 +')); // 7
 You can add custom operators using the `addOperator` function:
 
 ```typescript
-import { addOperator, UnaryOperator, BinaryOperator } from './operator';
+import { addOperator, UnaryOperator, BinaryOperator, VariadicOperator } from './operator';
 
 // Custom unary operator
 addOperator(new UnaryOperator('**', (a) => a * a));
